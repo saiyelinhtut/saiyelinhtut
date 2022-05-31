@@ -5,6 +5,7 @@
     Quick win script for remediation of CentOS Linux 7 baseline misconfigurations.
 .DESCRIPTION
     This script aims to remediate all possible OS baseline misconfigurations from CIS for CentOS Linux 7 based Virtual machines. 
+
 .NOTES
  
     Copyright (c) ZCSPM. All rights reserved.
